@@ -114,12 +114,12 @@ namespace Manager.API
                 {
                     Title = "Manager API",
                     Version = "v1",
-                    Description = "API construída na serie de vídeos no canal Lucas Eschechola.",
+                    Description = "API construída no curso do Lucas Eschechola.",
                     Contact = new OpenApiContact
                     {
-                        Name = "Lucas Eschechola",
-                        Email = "lucas.gabriel@eu.com",
-                        Url = new Uri("https://eschechola.com.br")
+                        Name = "Vinicius Botelho Awada",
+                        Email = "vbawada@gmail.com",
+                        Url = new Uri("https://www.linkedin.com/in/vinicius-bots/")
                     },
                 });
 
