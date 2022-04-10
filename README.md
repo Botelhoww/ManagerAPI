@@ -2,9 +2,6 @@
 <p>Projeto criado no curso do Lucas para construir uma API Rest utilizando .NET 5, EF Core, e princiaplmente <strong>boas práticas de desenvolvimento e arquitetura!</strong></p>
 <br>
 
-<br><br>
-<br>
-
 <h3 align="center">Para poder rodar o projeto você precisa configurar algumas variaveis de ambiente</h3>
 <br>
 <p>Iniciar os segredos de usuários</p>
